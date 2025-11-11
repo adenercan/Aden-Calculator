@@ -5,7 +5,7 @@ This is a web-based, responsive calculator application built using HTML, CSS, an
 ## ✨ Features
 
 * **Four Basic Operations:** Addition, Subtraction, Multiplication, and Division.
-* **Clear All (AC):** Resets the entire calculation.
+* **Clear All (C):** Resets the entire calculation.
 * **Decimal Support:** Allows for operations with floating-point numbers.
 * **Responsive Design:** Works smoothly on mobile, tablet, and desktop screens.
 
